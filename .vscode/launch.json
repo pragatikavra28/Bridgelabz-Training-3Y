@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AbundantNumber",
+            "request": "launch",
+            "mainClass": "AbundantNumber",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongNumber",
+            "request": "launch",
+            "mainClass": "ArmstrongNumber",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "BMICalculator",
+            "request": "launch",
+            "mainClass": "BMICalculator",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "CountdownFor",
+            "request": "launch",
+            "mainClass": "CountdownFor",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "CountdownWhile",
+            "request": "launch",
+            "mainClass": "CountdownWhile",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "DigitCount",
+            "request": "launch",
+            "mainClass": "DigitCount",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "DivisibleByFive",
+            "request": "launch",
+            "mainClass": "DivisibleByFive",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeBonus",
+            "request": "launch",
+            "mainClass": "EmployeeBonus",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "FactorialFor",
+            "request": "launch",
+            "mainClass": "FactorialFor",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "FactorialWhile",
+            "request": "launch",
+            "mainClass": "FactorialWhile",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "GradeCalculator",
+            "request": "launch",
+            "mainClass": "GradeCalculator",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "HarshadNumber",
+            "request": "launch",
+            "mainClass": "HarshadNumber",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "LargestCheck",
+            "request": "launch",
+            "mainClass": "LargestCheck",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "LeapYearCheck",
+            "request": "launch",
+            "mainClass": "LeapYearCheck",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "LeapYearSingleIf",
+            "request": "launch",
+            "mainClass": "LeapYearSingleIf",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "MultiplicationTable",
+            "request": "launch",
+            "mainClass": "MultiplicationTable",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "NumberType",
+            "request": "launch",
+            "mainClass": "NumberType",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "OddEven",
+            "request": "launch",
+            "mainClass": "OddEven",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "PrimeCheck",
+            "request": "launch",
+            "mainClass": "PrimeCheck",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "SmallestCheck",
+            "request": "launch",
+            "mainClass": "SmallestCheck",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "SpringSeason",
+            "request": "launch",
+            "mainClass": "SpringSeason",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "SumNaturalFor",
+            "request": "launch",
+            "mainClass": "SumNaturalFor",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "SumNaturalNumbers",
+            "request": "launch",
+            "mainClass": "SumNaturalNumbers",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "SumNaturalWhile",
+            "request": "launch",
+            "mainClass": "SumNaturalWhile",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "SumUntilNegative",
+            "request": "launch",
+            "mainClass": "SumUntilNegative",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "SumUntilZero",
+            "request": "launch",
+            "mainClass": "SumUntilZero",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        },
+        {
+            "type": "java",
+            "name": "VotingEligibility",
+            "request": "launch",
+            "mainClass": "VotingEligibility",
+            "projectName": "Control_Flow_Practices_b3d86bb3"
+        }
+    ]
+}
